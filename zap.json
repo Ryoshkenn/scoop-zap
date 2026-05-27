@@ -1,0 +1,22 @@
+{
+    "version": "1.0.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/Ryoshkenn/zap/releases/download/v1.0.0/zap_1.0.0_windows_x86_64.zip",
+            "bin": [
+                "zap.exe"
+            ],
+            "hash": "6e3456e806c90f55f974579e63dd082faa157a6f58bf43dfe8107e98ca1e70ce"
+        },
+        "arm64": {
+            "url": "https://github.com/Ryoshkenn/zap/releases/download/v1.0.0/zap_1.0.0_windows_arm64.zip",
+            "bin": [
+                "zap.exe"
+            ],
+            "hash": "6b27dd5e98089680b47060a5ea1ab4f4756b2381af4353fbf1cdc068608881a6"
+        }
+    },
+    "homepage": "https://ryoshkenn.github.io/zap",
+    "license": "MIT",
+    "description": "Terminal launcher for AI coding CLIs"
+}
