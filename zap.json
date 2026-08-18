@@ -1,19 +1,19 @@
 {
-    "version": "1.1.0",
+    "version": "1.2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Ryoshkenn/zap/releases/download/v1.1.0/zap_1.1.0_windows_x86_64.zip",
+            "url": "https://github.com/Ryoshkenn/zap/releases/download/v1.2.0/zap_1.2.0_windows_x86_64.zip",
             "bin": [
                 "zap.exe"
             ],
-            "hash": "e33d626c1a8bed5eea9a8d247b5e37a29c9f5d6625d5c2c9f59ed9fc12f94da2"
+            "hash": "80dc497fdf1ef37753d04a3ce5e38609eeab563676473ec3aa756cf7ab225055"
         },
         "arm64": {
-            "url": "https://github.com/Ryoshkenn/zap/releases/download/v1.1.0/zap_1.1.0_windows_arm64.zip",
+            "url": "https://github.com/Ryoshkenn/zap/releases/download/v1.2.0/zap_1.2.0_windows_arm64.zip",
             "bin": [
                 "zap.exe"
             ],
-            "hash": "135a38ac343f3acc8c9792e983a0bd4b697e8e3a002fa4dea5b8110281c7517e"
+            "hash": "cc16426c4b9e50ce5f73f8857623aab92b9fcf6da1d9717a2abaec140df132e0"
         }
     },
     "homepage": "https://ryoshkenn.github.io/zap",
